@@ -12,7 +12,7 @@ let greeting ="Hello, there";
 console.log(greeting);
 
 let price = 4.99;
-console.log(price);
+console.log("£"+price);
 
 let isStudent = true;
 console.log(isStudent);
