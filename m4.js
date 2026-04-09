@@ -1,4 +1,4 @@
-//4Write an arrow function called gradeScore that takes a number. Return "A" (90+), "B" (70+), "C" (50+), or "Fail" below 50. Test it with 4 different values.
+//Write an arrow function called gradeScore that takes a number. Return "A" (90+), "B" (70+), "C" (50+), or "Fail" below 50. Test it with 4 different values.
 const gradeScore = (grade) => {
     if(grade >=90){
         return "A";
