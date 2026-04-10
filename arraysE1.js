@@ -2,9 +2,8 @@
 
 const animals = ["cat", "dog", "bird", "fish"];
 
-animals.shift();
-console.log(animals);
-
 animals.push("hamster");
+animals.shift();
+
 console.log(animals);
 console.log(animals.length);
